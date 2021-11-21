@@ -11,7 +11,7 @@ O nosso time interno de produto, responsável pela integração com outros squad
 
 ## Arquitetura Projeto
 
-![imagem arquitetura](./devops/images/Desenho Arquitetura C4 Model.jpg)
+![imagem arquitetura](./devops/images/arquitetura.jpg)
 ### Pré-requisitos p/ build
 - Linux (Debian/Ubuntu based)
 - JDK 11
